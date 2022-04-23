@@ -1,1 +1,1 @@
-python3 update.py && python3 -m bot; ./Auto_Script
+python3 update.py && python3 -m bot
